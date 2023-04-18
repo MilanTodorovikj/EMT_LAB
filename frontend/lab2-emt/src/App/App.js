@@ -27,6 +27,9 @@ class App extends Component{
           <main>
             <div className={"container"}>
               <Routes>
+                  <Route path={"/"} exact
+                         element={<BookList books={this.state.books} onEdit={this.getBook} onDelete={this.deleteBook}
+                                            onMarkAsTaken={this.markAsTaken}/>}/>
                 <Route path={"/books"} exact
                        element={<BookList books={this.state.books} onEdit={this.getBook} onDelete={this.deleteBook}
                        onMarkAsTaken={this.markAsTaken}/>}/>
