@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb331a77-99ec-4a14-b461-fb28be4c3328" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/LabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/LabApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/config/DataHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/config/DataHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/domain/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/domain/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/domain/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/domain/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/domain/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/dto/BookDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/dto/BookDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/enumeration/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/enumeration/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/exception/AuthorNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/exception/AuthorNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/exception/BookNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/exception/BookNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/exception/BookOutOfCopiesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/exception/BookOutOfCopiesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/model/exception/CountryNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/model/exception/CountryNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/repository/AuthorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/repository/AuthorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/repository/CountryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/repository/CountryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/AuthorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/AuthorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/CountryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/CountryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/impl/AuthorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/impl/AuthorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/service/impl/CountryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/service/impl/CountryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/web/AuthorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/web/AuthorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/web/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/web/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finki/emt/lab/web/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/finki/emt/lab/web/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-h2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application-h2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/finki/emt/lab/LabApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/finki/emt/lab/LabApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/finki/emt/lab/web/BookController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NFGrDsgKiFu2i02QvSDtOivIYG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Fakultet/III GODINA/VI SEMESTAR/Milan/Elektronska i mobilna trgovija/Laboratoriski/lab2/lab1/lab/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "f9664ea1803311b35f81d07d8c9e072d",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Fakultet\III GODINA\VI SEMESTAR\Milan\Elektronska i mobilna trgovija\Laboratoriski\lab1\lab1\lab\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Fakultet\III GODINA\VI SEMESTAR\Milan\Elektronska i mobilna trgovija\Laboratoriski\lab2\lab1\lab\backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="finki.emt.lab.LabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb331a77-99ec-4a14-b461-fb28be4c3328" name="Changes" comment="" />
+      <created>1679252614957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679252614957</updated>
+      <workItem from="1679252616262" duration="9480000" />
+      <workItem from="1679262322757" duration="5000" />
+      <workItem from="1679262334508" duration="2000" />
+      <workItem from="1679324201531" duration="89000" />
+      <workItem from="1679324387743" duration="647000" />
+      <workItem from="1680080834284" duration="847000" />
+      <workItem from="1680177134878" duration="1118000" />
+      <workItem from="1681822441333" duration="58000" />
+      <workItem from="1681822509602" duration="422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
